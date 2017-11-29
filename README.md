@@ -4,6 +4,7 @@ A simple wrapper around Slackware RC scripts
 ## Setup
 
 You'll probably want to alias this in /root/.bashrc
+
     alias service='/root/bin/slackwareservice.pl'
 
 ## Usage
